@@ -1,6 +1,3 @@
-/builderpatterns/
-/factory/
-/abstractfactory/
+/resources/
+/prototype.png
 /singleton/
-/prototype/
-/factorymethod/
