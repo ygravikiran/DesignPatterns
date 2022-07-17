@@ -1,37 +1,47 @@
-/adapter/
-/bridge/
-/composite/
-/decorator/
+/Adapter Pattern.pdf
 /Bridge Design Pattern.pdf
-/Composite Pattern.pdf
-/Decorator Pattern.pdf
-/facade/
-/flyweight/
-/proxy/
-/Facade Pattern.pdf
-/Flyweight Pattern.pdf
-/Proxy Pattern.pdf
-/chainofresponsibilities/
-/command/
-/interpreter/
-/iterator/
-/mediator/
-/memento/
-/observer/
-/state/
-/strategy/
-/template/
+/Bridge.pdf
 /Chain of Responsibility Pattern.pdf
 /Chain of Responsibility.pdf
 /Command Pattern.pdf
+/Composite Pattern.pdf
+/Decorator Pattern.pdf
+/Facade Pattern.pdf
+/Flyweight Pattern.pdf
 /Iterator Pattern.pdf
 /Mediator Pattern.pdf
-/visitor/
 /Memento Pattern.pdf
 /Observer Pattern.pdf
 /Observer.pdf
+/Proxy Pattern.pdf
 /State Pattern.pdf
 /Strategy Pattern.pdf
 /Template Pattern.pdf
 /Visitor design pattern.pdf
+/With Bridge and Without Bridge.png
+/abstractfactory/
+/abstractfactory_pattern_uml_diagram.jpg
+/adapter/
+/bridge/
+/builderpatterns/
+/chainofresponsibilities/
+/command/
+/composite/
+/decorator/
+/facade/
+/factory_pattern_uml_diagram.jpg
+/factorymethod/
+/flyweight/
+/iterator/
+/mediator/
+/memento/
+/observer/
+/prototype.png
+/prototype/
+/proxy/
+/singleton/
+/state/
+/strategy/
+/template/
 /visitor.png
+/visitor/
